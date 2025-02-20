@@ -8,7 +8,6 @@ These files are formatted specifically for querying Large Language Models (LLMs)
 ## Requirements
 
 - **Python 3.12.9** (or higher)
-- **pip**
 
 ## Virtual Environment Setup
 It is recommended to use a virtual environment to manage project dependencies.
